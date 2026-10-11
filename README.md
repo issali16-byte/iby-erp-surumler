@@ -7,6 +7,8 @@ Türk işletmeleri için geliştirilmiş yerli ERP yazılımı.
 
 **30 gün ücretsiz deneme** · Windows 10 / 11 (64 bit) · İnternet olmadan kurulur
 
+🌐 Web sitesi: **[issali16-byte.github.io](https://issali16-byte.github.io)**
+
 ---
 
 ## Modüller
