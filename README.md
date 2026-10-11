@@ -1,7 +1,7 @@
 # IBY ERP — KOBİ'ler için Türkçe ERP Programı
 
 **Stok, depo, üretim, satış, satınalma, finans ve e-belge tek programda.**
-SAP Business One mantığıyla tasarlanmış, Türk işletmeleri için yerli ERP yazılımı.
+Türk işletmeleri için geliştirilmiş yerli ERP yazılımı.
 
 ### ⬇️ [IBY ERP'yi İndir (Windows Kurulum)](https://github.com/issali16-byte/iby-erp-surumler/releases/latest/download/IBY_ERP_Kurulum.exe)
 
