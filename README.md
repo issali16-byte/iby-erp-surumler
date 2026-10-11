@@ -51,7 +51,9 @@ Windows installer with a free 30-day trial.
 
 **Anahtar kelimeler:** ERP, ERP programı, ERP yazılımı, ERP sistemi, KOBİ ERP, yerli ERP,
 Türk ERP, Türkçe ERP, üretim ERP, stok ERP, depo ERP, ERP Türkiye, ERP software, ERP system,
-SME ERP, manufacturing ERP, inventory ERP, stok takip programı, depo yönetim programı,
-ön muhasebe programı, üretim takip programı, MRP programı
+SME ERP, manufacturing ERP, inventory ERP, depo programı, stok programı, stok takip programı,
+depo yönetim programı, depo takip programı, ambar programı, muhasebe programı, ön muhasebe programı,
+üretim programı, üretim takip programı, MRP programı, sevkiyat programı, irsaliye programı,
+cari hesap programı
 
 *Bu sayfa sadece kurulum dosyalarını içerir. © IBY Yazılım ve Danışmanlık*
