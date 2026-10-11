@@ -54,6 +54,7 @@ Türk ERP, Türkçe ERP, üretim ERP, stok ERP, depo ERP, ERP Türkiye, ERP soft
 SME ERP, manufacturing ERP, inventory ERP, depo programı, stok programı, stok takip programı,
 depo yönetim programı, depo takip programı, ambar programı, muhasebe programı, ön muhasebe programı,
 üretim programı, üretim takip programı, MRP programı, sevkiyat programı, irsaliye programı,
-cari hesap programı
+cari hesap programı, lojistik programı, lojistik yazılımı, depo lojistik, logistics ERP,
+warehouse management system (WMS)
 
 *Bu sayfa sadece kurulum dosyalarını içerir. © IBY Yazılım ve Danışmanlık*
